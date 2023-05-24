@@ -7,7 +7,9 @@ Convert YouTube Music playlists into Spotify playlists
   - You need to place these under spotify_id and spotify_token in `secret.py`
 - A Spotify user account
   - You will need to place the user id into spotify_user_id in `secret.py`
+- A Google Developer account
+  - You will also need to add support for YouTube API v3
+  - You will need the API key (no need to OAuth2.0) 
 - The libraries as outlined in `requirements.txt`
 ## Future Plans
-- Use the YouTube API instead of yt_dlp -> yt_dlp unnecessarily slows down the processing speed
 - Put this into a website -> a much nicer UI to work with
