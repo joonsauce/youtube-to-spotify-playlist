@@ -13,3 +13,4 @@ Convert YouTube Music playlists into Spotify playlists
 - The libraries as outlined in `requirements.txt`
 ## Future Plans
 - Put this into a website -> a much nicer UI to work with (found [here](https://github.com/joonsauce/yt-to-spotify))
+- Implement as Flask App -> allow API calls to convert playlist
